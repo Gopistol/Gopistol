@@ -1,7 +1,6 @@
 ### Hi! 👋
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gopistol&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gopistol"/>
 <!--
 **Gopistol/Gopistol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
